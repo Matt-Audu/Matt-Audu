@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on robust Cloud and DevOps projects
 - 📫 You can reach me @simplymailmatthew7@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mbarimam-audu/
+- Medium: https://medium.com/@mattaudu
 
 <!---
 Matt-Audu/Matt-Audu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
